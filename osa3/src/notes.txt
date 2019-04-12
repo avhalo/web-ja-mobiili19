@@ -1,0 +1,20 @@
+install node, npm install -g create-react-app, create-react-app 
+npm start
+
+1. is node.js required for react
+react alternatives: vue, angular (js)
+console: https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation
+
+react-development tools needed for?
+
+what is jsx: https://reactjs.org/docs/introducing-jsx.html
+
+what is babel https://babeljs.io/users (js compiler), by henry zhu
+worked at Adobe(Behance), podcast: hope in source,
+ https://www.patreon.com/henryzhu
+
+https://opencollective.com 
+example airbnb 100 000$ in 2019
+
+
+
